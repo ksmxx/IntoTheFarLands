@@ -1,0 +1,3 @@
+Unzip game file
+
+Make sure you start in "0Main_Menu" And play in "Stand alone Game" Mode
